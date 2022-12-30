@@ -2,8 +2,10 @@
 
 Welcome to my GitHub profile! I am a recent graduate of UW's Full Stack Web Development Bootcamp. Here you will find mostly Bootcamp projects, and new projects I am working on in my spare time. 
 
-I am currently doing a React and GraphQL deep dive, and hoping to use these skills soon in a professional environment. As I am currently looking for work in the field, please contact me if you are interested in taking on an attentive employee and fast learner. 
+As I am currently looking for work in the field, please contact me if you are interested in taking on an attentive employee and fast learner. 
 
+
+- 🌱 I’m currently learning Java and Springboot and will be posting those projects on here soon!
 - ⚡ Fun fact: I am also a musician and visual artist! I love using creative problem solving across all of my passions - including coding! 
 
 Thanks for stopping by! ✨
